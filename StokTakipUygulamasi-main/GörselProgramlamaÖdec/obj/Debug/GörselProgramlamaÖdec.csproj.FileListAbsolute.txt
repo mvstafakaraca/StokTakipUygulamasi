@@ -1,0 +1,14 @@
+C:\Users\ardam\source\repos\GörselProgramlamaÖdec\GörselProgramlamaÖdec\bin\Debug\GörselProgramlamaÖdec.exe.config
+C:\Users\ardam\source\repos\GörselProgramlamaÖdec\GörselProgramlamaÖdec\bin\Debug\GörselProgramlamaÖdec.exe
+C:\Users\ardam\source\repos\GörselProgramlamaÖdec\GörselProgramlamaÖdec\bin\Debug\GörselProgramlamaÖdec.pdb
+C:\Users\ardam\source\repos\GörselProgramlamaÖdec\GörselProgramlamaÖdec\obj\Debug\GörselProgramlamaÖdec.csproj.AssemblyReference.cache
+C:\Users\ardam\source\repos\GörselProgramlamaÖdec\GörselProgramlamaÖdec\obj\Debug\GörselProgramlamaÖdec.Properties.Resources.resources
+C:\Users\ardam\source\repos\GörselProgramlamaÖdec\GörselProgramlamaÖdec\obj\Debug\GörselProgramlamaÖdec.Resource1.resources
+C:\Users\ardam\source\repos\GörselProgramlamaÖdec\GörselProgramlamaÖdec\obj\Debug\GörselProgramlamaÖdec.csproj.GenerateResource.cache
+C:\Users\ardam\source\repos\GörselProgramlamaÖdec\GörselProgramlamaÖdec\obj\Debug\GörselProgramlamaÖdec.csproj.CoreCompileInputs.cache
+C:\Users\ardam\source\repos\GörselProgramlamaÖdec\GörselProgramlamaÖdec\obj\Debug\GörselProgramlamaÖdec.exe
+C:\Users\ardam\source\repos\GörselProgramlamaÖdec\GörselProgramlamaÖdec\obj\Debug\GörselProgramlamaÖdec.pdb
+C:\Users\ardam\source\repos\GörselProgramlamaÖdec\GörselProgramlamaÖdec\obj\Debug\GörselProgramlamaÖdec.Login.resources
+C:\Users\ardam\source\repos\GörselProgramlamaÖdec\GörselProgramlamaÖdec\obj\Debug\GörselProgramlamaÖdec.intro.resources
+C:\Users\ardam\source\repos\GörselProgramlamaÖdec\GörselProgramlamaÖdec\obj\Debug\GörselProgramlamaÖdec.anasayfa.resources
+C:\Users\ardam\source\repos\GörselProgramlamaÖdec\GörselProgramlamaÖdec\obj\Debug\GörselProgramlamaÖdec.kayıtol.resources
